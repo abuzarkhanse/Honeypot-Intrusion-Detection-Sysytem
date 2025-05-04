@@ -1,0 +1,39 @@
+2025-04-10 01:14:48,292 - Attempt from 192.168.47.129:48924 | Username: abuzarkhanse | Password: asd@123
+2025-04-10 01:15:47,727 - Attempt from 192.168.47.129:37728 | Username: kali | Password: kali
+2025-04-10 01:23:23,537 - Attempt from 192.168.47.129:58372 | Username: admin | Password: 123456
+2025-04-10 01:26:12,945 | IP: 192.168.47.129:49228 | Username: root | Password: admin123
+2025-04-10 01:26:32,677 | IP: 192.168.47.129:49228 | Username: admin | Password: 123456
+2025-04-10 01:26:55,268 | IP: 192.168.47.129:49228 | Username: abuzarkhanse | Password: asd@123
+2025-04-10 01:27:21,150 | IP: 192.168.47.129:39266 | Username: admin | Password: admin
+2025-04-10 01:27:32,002 | IP: 192.168.47.129:39266 | Username: sufi | Password: sufi@123
+2025-04-10 01:27:36,181 | IP: 192.168.47.129:39266 | Username: jdfn | Password: d
+2025-04-10 01:32:17,290 | IP: 127.0.0.1:45838 | Username: admin | Password: 45678
+2025-04-10 01:32:22,444 | IP: 127.0.0.1:45838 | Username: asdf | Password: asdf
+2025-04-10 01:32:24,097 | IP: 127.0.0.1:45838 | Username: asd | Password: as
+2025-04-10 01:34:11,777 | IP: 127.0.0.1:45528 | Username: admin | Password: root123
+2025-04-10 01:34:17,179 | IP: 127.0.0.1:45528 | Username: ali | Password: 465
+2025-04-10 01:34:23,039 | IP: 127.0.0.1:45528 | Username: khan | Password: 7852
+2025-04-10 01:34:58,987 | IP: 127.0.0.1:50698 | Username: kali | Password: kali@123
+2025-04-10 01:35:04,808 | IP: 127.0.0.1:50698 | Username: asdf | Password: 456798
+2025-04-10 01:35:13,509 | IP: 127.0.0.1:50698 | Username: alikhan | Password: 465@654
+2025-04-10 01:49:00,374 | IP: 192.168.47.129:43964 | Username: kali | Password: kali
+2025-04-10 01:49:04,751 | IP: 192.168.47.129:43964 | Username: kalll | Password: sd
+2025-04-10 01:49:05,600 | IP: 192.168.47.129:43964 | Username: sddf | Password: sdf
+2025-04-29 13:47:54,245 | IP: 127.0.0.1:50236 | Username: admin | Password: admin
+2025-04-29 13:48:12,052 | IP: 127.0.0.1:50236 | Username: admin@123 | Password: admin
+2025-04-29 13:48:20,423 | IP: 127.0.0.1:50236 | Username: alikha | Password: alikhan
+2025-04-29 13:49:10,763 | IP: 127.0.0.1:46438 | Username: khan | Password: khan@123
+2025-04-29 13:49:21,110 | IP: 127.0.0.1:46438 | Username: WaqarKhan | Password: waqar@khan
+2025-04-29 13:49:28,517 | IP: 127.0.0.1:46438 | Username: khan123 | Password: khan@123
+2025-04-29 14:00:37,064 | IP: 192.168.47.129:55550 | Username: kali | Password: kali
+2025-04-29 14:00:43,067 | IP: 192.168.47.129:55550 | Username: asd | Password: 123
+2025-04-29 14:00:46,821 | IP: 192.168.47.129:55550 | Username: asdfg | Password: 12345
+2025-04-29 15:16:18,088 | IP: 192.168.47.129:51766 | Username: Abuzar | Password: xar@123
+2025-04-29 15:16:25,214 | IP: 192.168.47.129:51766 | Username: Ali | Password: Khan@321
+2025-04-29 15:16:36,038 | IP: 192.168.47.129:51766 | Username: Hassan | Password: hassan@345
+2025-04-29 15:23:16,228 | IP: 192.168.47.129:45210 | Username: Kali | Password: Kali
+2025-04-29 15:23:20,644 | IP: 192.168.47.129:45210 | Username: ali | Password: khan
+2025-04-29 15:23:33,607 | IP: 192.168.47.129:45210 | Username: jawad ghen | Password: ghe sar
+2025-04-29 15:29:40,301 | IP: 192.168.47.129:49836 | Username: kaliAbuzar | Password: kali@admin
+2025-04-29 15:29:46,973 | IP: 192.168.47.129:49836 | Username: AdminNew | Password: NEW
+2025-04-29 15:29:58,102 | IP: 192.168.47.129:49836 | Username: SHahzaib | Password: khan@321
